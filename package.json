@@ -1,0 +1,16 @@
+{
+  "name": "lvl-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "parcel src/index.pug --open --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
