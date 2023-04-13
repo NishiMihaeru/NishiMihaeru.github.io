@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    width: 1440px;
+    height: 70px;
+    border: 1px black solid;
+    // .header__logo
+
+    &__logo {
+    }
+
+    // .header__img
+
+    &__img {
+    }
+
+    // .header__nav
+
+    &__nav {
+        display: flex;
+    }
+
+    // .header__nav-item
+
+    &__nav-item {
+    }
+
+    // .header__login
+
+    &__login {
+    }
+
+    // .header__login-link
+
+    &__login-link {
+    }
+
+    // .header__register
+
+    &__register {
+    }
+
+    // .header__register-link
+
+    &__register-link {
+    }
+}
+.logo {
+    // .logo__img
+
+    &__img {
+    }
+}
+.login {
+    // .login__link
+
+    &__link {
+    }
+}
+.register {
+    // .register__link
+
+    &__link {
+    }
+}

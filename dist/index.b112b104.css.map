@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;;AAAoE","sources":["src/UI Kit/header/header.css"],"sourcesContent":[".header{display:flex;width:1440px;height:70px;border:1px #000 solid}.header__nav{display:flex}"],"names":[],"version":3,"file":"index.b112b104.css.map","sourceRoot":"/__parcel_source_root/"}
